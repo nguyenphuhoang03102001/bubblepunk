@@ -20,7 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `db_bubblepunk`
 --
-
+CREATE DATABASE `db_bubblepunk` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
+USE `db_bubblepunk`;
 -- --------------------------------------------------------
 
 --

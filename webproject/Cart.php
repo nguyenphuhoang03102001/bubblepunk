@@ -15,12 +15,12 @@
 <body>
   <?php
  
-  include("/Cartcontrol.php");
-  include_once("./module/db_module.php");
+  include("Cartcontrol.php");
+  include_once("db_module.php");
   $link = NULL;
   startConn($link);
   ?>
-  <?php include_once("index/header.php") ?>
+  <?php include_once("header.php") ?>
 
   <div class="body">
     <div class="container-lg">

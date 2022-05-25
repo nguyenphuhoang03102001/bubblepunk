@@ -1,0 +1,125 @@
+.body .more .info {
+  padding: 20px;
+  margin: 20px;
+}
+
+.body .more .info p {
+  font-size: smaller;
+}
+
+.body .more .catergory {
+  margin: 20px;
+}
+
+.body .more .catergory ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.body .more .catergory ul li a {
+  color: #0e1111;
+  padding-top: 10px;
+}
+
+.body .content .slide .card {
+  margin: 20px 0px;
+}
+
+.body .content .slide .card .carousel {
+  margin: 20px 0px;
+}
+
+.body .content .slide .card .carousel .carousel-indicators {
+  margin-bottom: -20px;
+}
+
+.body .content .price .card {
+  margin-top: 15%;
+  padding: 10px;
+  font-size: 65%;
+}
+
+.body .content .price .card form {
+
+  border: #0e1111;
+  width: 200px;
+}
+.body .content .price .card form input {
+  width: 100% !important;
+  background-color: #e5af42;
+  border: none;
+}
+
+.body .content .price .card h4 {
+  color: #0e1111;
+}
+
+.body .content .price .card .row {
+  margin-right: 70px;
+  margin-left: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.body .content .price .card .row input {
+  width: 3rem;
+  height: 2rem;
+  font-size: large;
+}
+
+.body .content .descrb .switch {
+  padding: 10px;
+  background-color: antiquewhite;
+}
+
+.body .content .descrb .switch .btn {
+  background-color: #e5af42 !important;
+  border: #e5af42;
+  margin-right: 10px;
+}
+
+.body .content .descrb .container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+.body .content .descrb .describe {
+  margin: 10px 0px;
+}
+
+.body .content .descrb .describe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  padding: 10px 0px;
+}
+
+.body .content .similar .row {
+  padding: 0px 10px;
+}
+
+.body .content .similar .row .col {
+  margin-top: 10px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.body .content .similar .row .col .card img {
+  height: 100%;
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+/*# sourceMappingURL=styleProducts.css.map */

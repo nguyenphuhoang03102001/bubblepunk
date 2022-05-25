@@ -37,7 +37,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <div class="container-lg">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
+          <li class="nav-item active d-lg-none d-block">
           <?php
           if (isset($_SESSION['uid'])) {
             echo"<h2 style='color:white' style='font-size: 4rem !important;'>Xin chào, ".$rows['UserName']."</h2>

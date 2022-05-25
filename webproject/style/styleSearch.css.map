@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AACI,KADC,CACD,OAAO,CAAA;EACH,gBAAgB,EAAE,YAAY;EAC9B,OAAO,EAAE,QAAQ;CAWpB;;AAdL,AAKY,KALP,CACD,OAAO,CAGH,IAAI,CACA,SAAS,CAAA;EACL,UAAU,EAAE,IAAI;CAKnB;;AAXb,AAOgB,KAPX,CACD,OAAO,CAGH,IAAI,CACA,SAAS,CAEL,MAAM,CAAA;EACF,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,CAAC;CACX",
+    "sources": [
+        "styleSearch.scss"
+    ],
+    "names": [],
+    "file": "styleSearch.css"
+}

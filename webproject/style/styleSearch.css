@@ -1,0 +1,14 @@
+.body .filter {
+  background-color: antiquewhite;
+  padding: 0px 10px;
+}
+
+.body .filter .row .col-lg-6 {
+  margin-top: 10px;
+}
+
+.body .filter .row .col-lg-6 select {
+  position: absolute;
+  right: 0;
+}
+/*# sourceMappingURL=styleSearch.css.map */
